@@ -16,7 +16,7 @@ script:
 
 notifications:
   email:
-    reciapients:
+    recipients:
       - kanasir@hotmail.com
     on_success: always
     on_failure: always
