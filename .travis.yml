@@ -15,6 +15,7 @@ script:
   - yarn build
 
 notifications:
+  slack: travisciespacio:rQdcnN1UDyL8qe05V0oB1DTw
   email:
     recipients:
       - kanasir@hotmail.com
